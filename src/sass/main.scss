@@ -1,0 +1,72 @@
+*,
+*::after,
+*::before {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	font-family: 'Outfit', sans-serif;
+	background-color: hsl(212, 45%, 89%);
+}
+
+.main {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	width: 300px;
+	padding: 10px;
+	display: flex;
+	border-radius: 10%;
+
+	flex-direction: column;
+	align-items: center;
+
+	background-color: #fff;
+
+	@media (min-width: 1000px) {
+		width: 600px;
+        padding: 20px;
+	}
+
+	img {
+		object-fit: fill;
+		width: 100%;
+		height: 100%;
+		border-radius: 10%;
+	}
+
+	.text {
+		margin: 1em 0 0 0;
+		text-align: center;
+	}
+	h1 {
+		color: hsl(218, 44%, 22%);
+		font-size: 20px;
+		font-weight: 700;
+		@media (min-width: 1000px) {
+			font-size: 30px;
+		}
+	}
+	p {
+		color: hsl(220, 15%, 55%);
+		font-size: 15px;
+		font-weight: 400;
+		@media (min-width: 1000px) {
+			font-size: 20px;
+		}
+	}
+}
+
+.attribution {
+	position: absolute;
+	bottom: 0px;
+	left: 50%;
+	transform: translate(-50%);
+	font-size: 11px;
+	a {
+		color: hsl(228, 45%, 44%);
+	}
+}
