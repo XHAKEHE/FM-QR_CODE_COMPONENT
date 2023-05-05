@@ -17,8 +17,8 @@ Basic app component displaying QR code with short description - ideal for warm-u
 
 ### Screenshot
 
-![](/screenshots/Screenshot MOBILE QR code component.png?raw=true)
-![](/screenshots/Screenshot DESKTOP QR code component.png?raw=true)
+![Mobile](https://github.com/XHAKEHE/FM-QR_CODE_COMPONENT/tree/main/screenshots/Screenshot_MOBILE_QR_code_component)
+![Mobile](screenshots\Screenshot_DESKTOP_QR_code_component.png)
 
 ## My process
 
