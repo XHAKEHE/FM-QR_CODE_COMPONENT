@@ -11,19 +11,14 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [What I learned](#what-i-learned)
 - [Author](#author)
 
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 Basic app component displaying QR code with short description - ideal for warm-up.
 
 ### Screenshot
 
-![](screenshots\Screenshot MOBILE QR code component.png)
-![](screenshots\Screenshot DESKTOP QR code component.png)
-
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
+![](screenshots\Screenshot MOBILE QR code component.png?raw=true)
+![](screenshots\Screenshot DESKTOP QR code component.png?raw=true)
 
 ## My process
 
@@ -45,6 +40,3 @@ Whole project was generally a reminder of already acquired knowledge. I learned 
 
 - GitHub - [XHAKEHE](https://github.com/XHAKEHE)
 - Frontend Mentor - [@XHAKEHE](https://www.frontendmentor.io/profile/XHAKEHE)
-
-
-
